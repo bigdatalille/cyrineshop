@@ -1,0 +1,30 @@
+{
+  "cyrineshopApp": {
+    "category": {
+      "home": {
+        "title": "Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Category",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Category",
+        "notFound": "No Categories found"
+      },
+      "created": "Ένα νέο Category έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Category έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Category έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Category {{ id }};"
+      },
+      "detail": {
+        "title": "Category"
+      },
+      "id": "ID",
+      "description": "Description",
+      "sortOrder": "Sort Order",
+      "dateAdded": "Date Added",
+      "dateModified": "Date Modified",
+      "status": "Status",
+      "parent": "Parent",
+      "product": "Product"
+    }
+  }
+}

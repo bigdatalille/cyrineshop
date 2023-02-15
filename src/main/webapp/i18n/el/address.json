@@ -1,0 +1,29 @@
+{
+  "cyrineshopApp": {
+    "address": {
+      "home": {
+        "title": "Addresses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Address",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Address",
+        "notFound": "No Addresses found"
+      },
+      "created": "Ένα νέο Address έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Address έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Address έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Address {{ id }};"
+      },
+      "detail": {
+        "title": "Address"
+      },
+      "id": "ID",
+      "address1": "Address 1",
+      "address2": "Address 2",
+      "city": "City",
+      "postcode": "Postcode",
+      "country": "Country",
+      "customer": "Customer"
+    }
+  }
+}
